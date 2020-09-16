@@ -1,5 +1,3 @@
-
 # Hey there, I'm Hemant
 
-
-### Fullstack React Developer
+### Fullstack React Developer :fire:
